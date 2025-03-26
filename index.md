@@ -3,14 +3,14 @@
 | Number | Date  | Content |
 |--------|-------|---------|
 | 1  | 25-2  | presentation of the course |
-| 2  | 26-2  |   |
-| 3  | 4-3   |   |
-| 4  | 5-3   |   |
-| 5  | 11-3  |   |
-| 6  | 12-3  |   |
-| 7  | 19-3  | optical properties of metallic nanostructures  |
-| 8  | 25-3  |  |
-| 9  | 26-3  |   |
+| 2  | 26-2  | types of material, synthesis methods, types of nanostructures, size equation, TSE |
+| 3  | 4-3   | TSE for melting temperature, LLM, Pawlow fTD, SII |
+| 4  | 5-3   | TSE on Pb, superheating/cooling |
+| 5  | 11-3  | thd of nucleation, Gibbs-Thomson, DLA vs. OR, supersaturation |
+| 6  | 12-3  | DLA, Ostwal ripening, nucleation and growth|
+| 7  | 19-3  | optical properties of metallic NS, AuAg alloy, NP in arts |
+| 8  | 25-3  | LSPR: intro, surface vs. sphere, diff. eq., dipolar approx, pbc |
+| 9  | 26-3  | LSPR: solution |
 | 10 | 1-4  |   |
 | 11 | 2-4  |   |
 | 12 | 8-4   |  |
