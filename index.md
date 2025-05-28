@@ -20,9 +20,12 @@
 | 16 | 23-04  | non-linear response, optical Kerr effect, z-scan technique |
 | 17 | 29-04  | nanolenses, multimers, DDA approximation |
 | 18 | 30-04  | LSPR imaging, EEELS, interacting macroPS |
-| 19 | 07-05  | Lab theory 1 |
-| 20 | 13-05  | electrons vs photons, photonic crystals |
-| 21 | 14-05  | Lab theory 2: XRD |
-| 22 | 20-05  |   |
-| 23 | 21-05  |
-| 24 | 27-05  |
+| - | 07-05  | Lab theory 1 |
+| 19 | 13-05  | electrons vs photons, photonic crystals |
+| - | 14-05  | Lab theory 2: XRD |
+| 20 | 20-05  |   |
+| - | 21-05  |
+| 21 | 27-05  |
+| 22 | 28-05  |
+| 23 | 
+| 24
