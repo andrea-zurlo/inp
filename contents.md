@@ -10,13 +10,9 @@
 
 #### II. Optical properties
 1. Lamber-Beer law
-2. complex refractive index and dielectric function
-3. extended SPR (plasmon-polaritons)
+2. complex dielectric function
+3. surface plasmon resonance (SPR)
 4. L-SPR for spherical NP
-   <!-- 1. damped harmonic oscillator model
-   2. dipolar approximation
-   3. boundary conditions
-   4. static/quasi-static solutions (local field enhancement, Frölich condition) -->
 5. far-field properties
 6. Mie theory
 7. size dependent dielectric function (Drude, Drude-Lorentz)
@@ -25,10 +21,7 @@
 
 #### III. Interacting nanoparticles
 1. effective medium approximation
-2. ion implantation
-   1. binary collisions
-   2. energy loss
-   3. projected range
+2. ion implantation (binary collisions, energy loss, projected range)
 3. ion beam processing (growth kinetics of nanoplanets)
 4. non-linear optical materials
 5. optical Kerr effect and optical switching
