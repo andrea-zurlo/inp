@@ -1,26 +1,26 @@
 #### I. Thermodynamics
 1. effective radius
-2. thermodynamic size effect (TSE)
+2. thermodynamic size effect (TSE) *
 3. refined models (LMM, SII)
 4. nucleation thermodynamics
-5. Gibbs-Thomson equation
+5. Gibbs-Thomson equation *
 6. growth kinetics regimes
-7. diffusion limited aggregation (DLA)
-8. Ostwald ripening (OR)
+7. diffusion limited aggregation (DLA) *
+8. Ostwald ripening (OR) *
 
 #### II. Optical properties
 1. Lamber-Beer law
 2. complex dielectric function
 3. surface plasmon resonance (SPR)
-4. L-SPR for spherical NP
-5. far-field properties
+4. L-SPR for spherical NP *
+5. far-field properties *
 6. Mie theory
 7. size dependent dielectric function (Drude, Drude-Lorentz)
 8. LSPR control (composition, size, matrix, shape)
 9. size distributed system
 
 #### III. Interacting nanoparticles
-1. effective medium approximation
+1. effective medium approximation *
 2. ion implantation (binary collisions, energy loss, projected range)
 3. ion beam processing (growth kinetics of nanoplanets)
 4. non-linear optical materials
