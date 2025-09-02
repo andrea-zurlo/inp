@@ -2,9 +2,9 @@
 1. effective radius
 2. thermodynamic size effect (TSE)
 3. refined models (LMM, SII)
-4. nucleation thermodynamics
+4. nucleation theory
 5. Gibbs-Thomson equation
-6. growth kinetics regimes
+6. growth kinetics regimes (DLA vs. OR)
 7. diffusion limited aggregation (DLA)
 8. Ostwald ripening (OR)
 
@@ -12,23 +12,23 @@
 1. Lamber-Beer law
 2. complex dielectric function
 3. surface plasmon resonance (SPR)
-4. L-SPR for spherical NP
-5. far-field properties
-6. Mie theory
-7. size dependent dielectric function (Drude, Drude-Lorentz)
-8. LSPR control (composition, size, matrix, shape)
-9. size distributed system
+4. LSPR for spherical NP
+5. dipolar approximation
+6. far-field properties
+7. Mie theory
+8. size dependent dielectric function (Drude, Drude-Lorentz)
+9. LSPR control (composition, size, matrix, shape)
+10. size distributed system
 
 #### III. Interacting nanoparticles
-1. effective medium approximation
-2. ion implantation (binary collisions, energy loss, projected range)
-3. ion beam processing (growth kinetics of nanoplanets)
-4. non-linear optical materials
-5. optical Kerr effect and optical switching
-6. self-similar nanolenses
-7. multimers
-8. discrede dipole approximation (DDA)
-9. LSPR imaging (dark-field microscopy, EELS)
+1. effective medium approximation (EMA)
+2. ion implantation (binary collisions, energy loss, etc.)
+3. nanoplanets (ion beam processing)
+4. non-linear optics (optical Kerr effect, nonlinear absorption)
+5. self-similar nanolenses
+6. multimers
+7. discrede dipole approximation (DDA)
+8. LSPR imaging (dark-field microscopy, EELS)
 
 #### IV. Electron-photon isomorphism
 1. Maxwell equations
