@@ -12,8 +12,8 @@
 1. Lamber-Beer law
 2. complex dielectric function
 3. surface plasmon resonance (SPR)
-4. LSPR for spherical NP
-5. dipolar approximation
+4. LSPR for spherical NP *
+5. dipolar approximation *
 6. far-field properties
 7. Mie theory
 8. size dependent dielectric function (Drude, Drude-Lorentz)
@@ -21,7 +21,7 @@
 10. size distributed system
 
 #### III. Interacting nanoparticles
-1. effective medium approximation (EMA)
+1. effective medium approximation (EMA) *
 2. ion implantation (binary collisions, energy loss, etc.)
 3. nanoplanets (ion beam processing)
 4. non-linear optics (optical Kerr effect, nonlinear absorption)
