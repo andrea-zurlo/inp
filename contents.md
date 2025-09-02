@@ -1,12 +1,12 @@
 #### I. Thermodynamics
 1. effective radius
-2. thermodynamic size effect (TSE)
+2. thermodynamic size effect (TSE) *
 3. refined models (LMM, SII)
-4. nucleation theory
-5. Gibbs-Thomson equation
-6. growth kinetics regimes (DLA vs. OR)
-7. diffusion limited aggregation (DLA)
-8. Ostwald ripening (OR)
+4. nucleation thermodynamics
+5. Gibbs-Thomson equation *
+6. growth kinetics regimes
+7. diffusion limited aggregation (DLA) *
+8. Ostwald ripening (OR) *
 
 #### II. Optical properties
 1. Lamber-Beer law
